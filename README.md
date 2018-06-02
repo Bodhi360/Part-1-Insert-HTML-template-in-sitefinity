@@ -1,6 +1,6 @@
-Part 1: Insert HTML template in sitefinity
-Here we are trying to make a complete project of sitefinity using a html template grill. We make the project in part.
-	We install sitefinity project using sitefinity tool.
+<h3>Part 1: Insert HTML template in sitefinity</h3>
+<h4>Here we are trying to make a complete project of sitefinity using a html template grill. We make the project in part.</h4>
+	<p>We install sitefinity project using sitefinity tool.
 	We run the project on browser using sitefinity tool after that we run it by visual studio (Here we are using visual studio 2015).
  
 
@@ -30,5 +30,5 @@ Browse another folder > App_data > sitefinity > Website Templates > grill  > App
 	Publish 
 http://bodhi360.cloud/
 
-  
+ </p>
 
