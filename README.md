@@ -26,8 +26,8 @@ Rename . (here we are using name it grill you can write the name as your require
 You take the reference from the file which we upload there.</br>
 -->	After inserting the html rebuilt the project and debug it without debugging.</br>
 -->	Logging to backed on sitefinity using browser http://localhost:60876/Sitefinity/</br>
--->	Go to design > Page Templates > create a template > Name  > Developer name > use template  select another template > use you own .master file >
-Browse another folder > App_data > sitefinity > Website Templates > grill  > App_Master > Grill.master > select > create and go to add content.</br>
+-->	Go to design <b>> Page Templates > create a template > Name  > Developer name > use template  select another template ></b> use you own .master file >
+Browse another folder <b>> App_data > sitefinity > Website Templates > grill  > App_Master > Grill.master > select > create and go to add content.</br>
 -->	To load the css click on theme > select the theme > change theme name to grill.</br>
 -->	Click on published you template is ready but to see in browser you need to assignee it to page.
 -->	Go to pages > create a page > name the page (we are creating home so we name it home)  template > select the another template > select the template which you made it is on the top > done  > create and go to and contents.</br>
